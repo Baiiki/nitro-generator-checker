@@ -1,7 +1,7 @@
 # Nitro-generator-checker
 
 
-To start with, we need to install all the necessary modules for stealing passwords.
+To start with, we need to install all the necessary modules for generate and checks nitros.
 ```pip install -r requirements.txt```
 
 
